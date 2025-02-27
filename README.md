@@ -1,2 +1,2 @@
 # PengembanganMachineLearning
-Submission Pengembangan Machine Learning : Proyek Klasifikasi Gambar
+Submission Pengembangan Machine Learning : Proyek Analisis Sentimen
